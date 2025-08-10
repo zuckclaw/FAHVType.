@@ -53,12 +53,6 @@ VVIP users can type using custom practice texts written inside a RichTextBox nam
 
 ---
 
-## 📷 Screenshots
-
-> *(You can upload your app screenshots here later)*
-
----
-
 ## 📂 Database Schema
 
 **dboLogin**
@@ -74,7 +68,7 @@ VVIP users can type using custom practice texts written inside a RichTextBox nam
 ## ⚙️ How to Run
 
 1. Clone this repository  
-   `git clone https://github.com/yourusername/FAHVType.git`
+   `git clone https://github.com/zuckclaw/FAHVType.git`
 
 2. Open the solution in Visual Studio
 
@@ -101,7 +95,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📧 Contact
 
-**Made with ❤️ by Fathin, Virza & Haekal**
+**Made with ❤️ by Finn, Virza & Haekal**
 
 contact:
 📮 Instagram: [@voenx424](https://instagram.com/voenx424)  
