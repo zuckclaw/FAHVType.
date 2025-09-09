@@ -96,6 +96,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 📧 Contact
 
 **Made with ❤️ by Finn, Virza & Haekal**
+git acc haekal : https://github.com/Muhamad-Haekal
+git acc virza :
 
 contact:
 📮 Instagram: [@voenx424](https://instagram.com/voenx424)  
